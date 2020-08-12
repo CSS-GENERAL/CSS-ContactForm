@@ -1,6 +1,7 @@
-// const formulario = document.getElementById("formulario");
+const formulario = document.getElementById("formulario");
 
-// formulario.addEventListener("click",function(e){
-// e.preventDefault();
-// console.log(e);
-// });
+formulario.addEventListener("click",function(e){
+e.preventDefault();
+console.log(e);
+});
+
